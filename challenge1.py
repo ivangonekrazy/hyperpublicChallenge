@@ -5,7 +5,7 @@
     Ivan Tam, ivan@hipnik.net.
 """
 
-def readInput(filename="challenge2input.txt"):
+def readInput(filename="challenge1input.txt"):
   """ read the input file and return a list of
       readlines
   """
