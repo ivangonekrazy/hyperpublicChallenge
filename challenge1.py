@@ -1,5 +1,5 @@
 """
-    Hyperpublic Challenge2
+    Hyperpublic Challenge 1
     http://hyperpublic.com/challenge/question1
 
     Ivan Tam, ivan@hipnik.net.
